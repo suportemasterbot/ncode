@@ -11,10 +11,10 @@
 ![Licence](https://img.shields.io/github/license/nilsonlinux/ncode)
 
 
-![image](https://github.com/nilsonlinux/ncode/blob/main/img/ncode.png)
-![image](https://github.com/nilsonlinux/ncode/blob/main/img/ncode1.png)
-![image](https://github.com/nilsonlinux/ncode/blob/main/img/ncode4.png)
-![image](https://github.com/nilsonlinux/ncode/blob/main/img/ncode3.png)
+![image](https://raw.githubusercontent.com/ncode-dev/ncode/main/img/1.jpg)
+![image](https://raw.githubusercontent.com/ncode-dev/ncode/main/img/2.jpg)
+![image](https://raw.githubusercontent.com/ncode-dev/ncode/main/img/3.jpg)
+![image](https://raw.githubusercontent.com/ncode-dev/ncode/main/img/4.jpg)
 ![NCODE](https://github.com/nilsonlinux/ncode/blob/main/img/ncode2.png)
 
 ![image](https://user-images.githubusercontent.com/22534130/110146298-277f2d80-7db9-11eb-9552-5eddb83ee17d.png)
