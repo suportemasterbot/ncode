@@ -4,11 +4,10 @@ VOCÊ PODE IGNORAR CLICANDO EM CANCELAR.
 MAIS É ALTAMENTE RECOMENDÁVEL VOCÊ ATUALIZAR.
 ------------------------------------------------
 O QUE TEMOS DE NOVO NESTA VERSÃO ?
-0 - Tema padrão Light e Dark modificados. 
-1 - Foi adicionado a opção para listagem de impressoras na rede.
-2 - Após você gerar o código desejado, que abre no navegador, 
-você também estará gerando um arquivo em formato PDF na pasta padrão
-do programa (Codigo_MaxiPOS)
+Essa atualização traz o formato padrão para 6 digitos.
+Sempre utilizem 6 dígitos. Ex: Códigos com 5 números = 
+055555. Códigos com 4 dígitos = 004444 
+📅 20/09/2021
 ------------------------------------------------
 Em breve chegará mais novidades. Um abraço e até a próxima!!!
 
