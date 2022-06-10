@@ -5,7 +5,7 @@
 * Design: logo e ícone: ```Jerbeson```  
 
 
-![NCODE](https://github.com/nilsonlinux/ncode/raw/main/ncode_amd64.deb)  
+![NCODE](https://github.com/nilsonlinux/ncode/raw/main/ncode_amd64_beta1.deb)  
 ![Stars](https://img.shields.io/github/stars/nilsonlinux/ncode)  
 ![Forks](https://img.shields.io/github/forks/nilsonlinux/ncode)  
 ![Licence](https://img.shields.io/github/license/nilsonlinux/ncode)
